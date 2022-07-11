@@ -1,0 +1,3 @@
+# testing-vite
+
+[Vite](https://vitejs.dev) set up with [Vitest](https://vitest.dev) and [fast-check](https://github.com/dubzzz/fast-check) for TypeScript library development. Vite is configured for [Library Mode](https://vitejs.dev/guide/build.html#library-mode). This is an experiment in using Vite tooling (such as Vitest's in-source testing) for pure-TS library development, rather than anything front-end specific.
